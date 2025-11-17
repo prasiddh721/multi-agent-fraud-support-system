@@ -8,9 +8,17 @@ Designed for **real-world e-commerce customer support**, fraud detection, and ti
 
 ---
 
+
+![Project Thumbnail](thumbnail.png)
+
+This notebook implements a 5-agent enterprise-grade AI system designed for e-commerce workflows.
+
+---
+
 ## 🖼 System Architecture Diagram
 
-![AI Multi-Agent Architecture] (Architecture.png)
+![AI Multi-Agent Architecture](architecture.png)
+
 
 ---
 
